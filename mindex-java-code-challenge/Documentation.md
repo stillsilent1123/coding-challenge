@@ -2,7 +2,6 @@
 - Implemented Lombok
 - Switched away from Autowired to final implementation
 - Added Unit tests to provide coverage over added code
-- 
 
 ### New Endpoints
 The following endpoints are available to use:
